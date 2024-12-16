@@ -1,6 +1,11 @@
-title: Just the Docs Template
+title: Worm
 theme: just-the-docs
 color_scheme: worm
 favicon:
 
 url: https://rafhaels.github.io/worm/
+
+# link voltar ao topo
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+

@@ -1,0 +1,20 @@
+$body-background-color: $bg;
+$body-heading-color: $link;
+$body-text-color: $txt;
+$link-color: $link;
+$nav-child-link-color: $link;
+$sidebar-color: $bg;
+$base-button-color: $bg;
+$btn-primary-color: $link;
+$code-background-color: $txt;
+$code-linenumber-color: $bg;
+$feedback-color: darken($sidebar-color, 5%);
+$table-background-color: $bg;
+$search-background-color: $bg;
+$search-result-preview-color: $link;
+$border-color: $txt;
+
+@import "./vendor/OneLightJekyll/syntax";
+
+
+

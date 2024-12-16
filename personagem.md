@@ -15,8 +15,9 @@ nav_order: 2
 
 ## Origens
 
-| **d8** | **Origens**                   |
-|:------:|:-----------:|:-:|:------------|
+|        |             |   |             |
+|--------|-------------|---|-------------|
+| **d8** | **Origens** |   |             |
 | 1      | Alquimista  | 5 | Druida      |
 | 2      | Arcanista   | 6 | Guerreiro   |
 | 3      | Bucaneiro   | 7 | Ladino      |

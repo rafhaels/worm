@@ -36,6 +36,7 @@ h3 {
 }
   
 .main-content ol > li::before {
+    top: 0em;
     color: $txt;
 }
   
@@ -44,9 +45,32 @@ h3 {
     color: $txt;
 }
 
+// tabelas
 
-
-
+tr:nth-child(even) td{
+    background-color: #D9D6D3;
+}
+  
+th, td {
+    min-width: initial;
+    padding-top: .35rem;
+    padding-bottom: .35rem;
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+  
+td {
+    border-bottom: 0;
+    border-left: 0;
+}
+  
+thead{
+    display: none;
+}
+  
+tbody tr:last-of-type td{
+    padding-bottom: .35rem;
+}
 
 
 

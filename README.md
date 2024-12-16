@@ -2,6 +2,7 @@
 title: Sobre
 layout: default
 nav_order: 1
+permalink: /
 ---
 
 # título 1
